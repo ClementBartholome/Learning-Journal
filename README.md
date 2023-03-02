@@ -2,6 +2,7 @@
 
 ### Link
 
+[Figma Design](https://www.figma.com/file/hE5klIn1AEQ9XWZWmurs7y/Learning-Journal%2FBlog?node-id=0%3A1&t=3KY0n8NRWxfl26G9-0)
 [Live Solution](https://learning-journal-clement-bartholome.netlify.app/)
 
 ### Goals 
