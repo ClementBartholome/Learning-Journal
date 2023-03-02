@@ -1,9 +1,11 @@
 ## Learning Journal
 
+This is a solo project from Scrimba's [Frontend Developer Career Path](https://scrimba.com/learn/frontend).
+
 ### Link
 
 [Figma Design](https://www.figma.com/file/hE5klIn1AEQ9XWZWmurs7y/Learning-Journal%2FBlog?node-id=0%3A1&t=3KY0n8NRWxfl26G9-0)
-[Live Solution](https://learning-journal-clement-bartholome.netlify.app/)
+[Live Demo](https://learning-journal-clement-bartholome.netlify.app/)
 
 ### Goals 
 
