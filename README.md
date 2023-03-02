@@ -2,6 +2,10 @@
 
 This is a solo project from Scrimba's [Frontend Developer Career Path](https://scrimba.com/learn/frontend).
 
+### Screenshot 
+
+![screen](LearningJournal/images/screen.png)
+
 ### Link
 
 [Figma Design](https://www.figma.com/file/hE5klIn1AEQ9XWZWmurs7y/Learning-Journal%2FBlog?node-id=0%3A1&t=3KY0n8NRWxfl26G9-0)
