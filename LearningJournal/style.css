@@ -129,9 +129,10 @@ a:hover {
 .view-more {
     margin: 0 auto;
     display: block;
-    width: 5rem;
     color: black;
     font-weight: bold; 
+    border: none;
+    background: none;
 }
 
 footer {
